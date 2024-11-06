@@ -56,7 +56,7 @@ In this link, you can check all the saved pre-trained models and how the dataset
 2. Patel, R. M., Vaghani, S. D., Akilan, T., & Bin , S. (2024). The Pharmaceutical Drug Classification using Deep Learning Approaches. International Journal of Advanced Natural Sciences and Engineering Researches, 8(4), 243–253. [CLICK HERE TO CHECK PAPER](https://as-proceeding.com/index.php/ijanser/article/view/1841)
 
 # Notice
-This project and all associated code, and files are the intellectual property of Ronak Patel and documentation of this project is the intellectual property of Ronak Patel and the Team. Unauthorized copying, modification, or claiming of this work as your own is prohibited.
+This project and all associated code, and files are the intellectual property of Ronak Miteshkumar Patel and documentation of this project is the intellectual property of Ronak Miteshkumar Patel and the Team. Unauthorized copying, modification, or claiming of this work as your own is prohibited.
 
 ## Disclaimer
 This repository is provided for educational purposes and personal use only. It is intended to demonstrate technical concepts and does not grant permission for commercial use or reproduction in part or whole without explicit permission from the author.
