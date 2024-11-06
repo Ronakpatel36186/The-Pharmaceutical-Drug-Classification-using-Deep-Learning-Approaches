@@ -1,0 +1,12 @@
+
+Flask
+joblib
+NumPy
+pandas
+python-dateutil
+scikit-learn
+SciPy
+os
+Tesnorflow
+keras
+PIL
