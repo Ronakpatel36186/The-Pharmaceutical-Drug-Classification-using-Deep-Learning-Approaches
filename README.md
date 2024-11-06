@@ -2,7 +2,7 @@
 This project classifies pharmaceutical drugs into 10 categories based on images using deep learning. It leverages a publicly available dataset and employs custom CNN and pre-trained models to optimize classification accuracy.
 
 ## Project Overview
-This project utilizes a Kaggle dataset of 10,000 images to perform a multiclass classification of pharmaceutical drugs. The model aims to help in quickly identifying various drug types from images, which can be valuable for healthcare applications.
+This project utilizes a Kaggle dataset[1] of 10,000 images to perform a multiclass classification of pharmaceutical drugs. The model aims to help in quickly identifying various drug types from images, which can be valuable for healthcare applications.
 
 ## Features and Process
 Dataset Preparation
@@ -39,7 +39,7 @@ The training history, loss curves, and other performance metrics were visualized
 The trained models were saved using Keras, allowing easy deployment and testing in real-world scenarios without needing retraining.
 
 ## Deployment as a Flask Web Application
-The project was deployed as a Flask web application on AWS, enabling real-time predictions. The deployment used AWS EC2 instances and a Putty server to manage the application, leveraging AWS services by using EC2 for model storage and seamless operation.
+The project[2] was deployed as a Flask web application on AWS, enabling real-time predictions. The deployment used AWS EC2 instances and a Putty server to manage the application, leveraging AWS services by using EC2 for model storage and seamless operation.
 
 ## Environment and Tools Used
 Programming Languages & Libraries: Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, PIL
