@@ -46,6 +46,10 @@ Programming Languages & Libraries: Python, TensorFlow, Keras, Scikit-learn, NumP
 Development Platform: Google Colab
 Deployment Platform: AWS (EC2), Flask, Putty
 
+## Google Drive:
+[Google Drive link](https://drive.google.com/drive/folders/1PxbOSDG7qlCjZjzTRy6pSH0SyRsXlATj?usp=drive_link)
+In this link, you can check all the saved pre-trained models and how the dataset is sorted. 
+
 ## Reference:
 1. Dataset Credit: https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition
 
